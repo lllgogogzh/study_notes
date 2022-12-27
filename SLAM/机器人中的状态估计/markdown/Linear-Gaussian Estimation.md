@@ -376,7 +376,7 @@ $$
 
 ### 3.1.5 MAP的协方差
 
-xhat代表x状态的最有估计，但是这个xhat有多少置信度？
+xhat代表x状态的最优估计，但是这个xhat有多少置信度？
 
 ## 3.2 Recursive Discrete-Time Smoothing
 
